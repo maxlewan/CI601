@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIVisionProject.Server", "AIVisionProject.Server\AIVisionProject.Server.csproj", "{F35E92D1-5A4D-4452-910A-2E237E831BEA}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "aivisionproject.client", "aivisionproject.client\aivisionproject.client.esproj", "{9E451039-6979-4D6D-8C43-49BBBFDDE12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35E92D1-5A4D-4452-910A-2E237E831BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35E92D1-5A4D-4452-910A-2E237E831BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35E92D1-5A4D-4452-910A-2E237E831BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35E92D1-5A4D-4452-910A-2E237E831BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E451039-6979-4D6D-8C43-49BBBFDDE12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E451039-6979-4D6D-8C43-49BBBFDDE12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E451039-6979-4D6D-8C43-49BBBFDDE12C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9E451039-6979-4D6D-8C43-49BBBFDDE12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E451039-6979-4D6D-8C43-49BBBFDDE12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E451039-6979-4D6D-8C43-49BBBFDDE12C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8641439C-283F-4BEA-89FE-942901757687}
+	EndGlobalSection
+EndGlobal

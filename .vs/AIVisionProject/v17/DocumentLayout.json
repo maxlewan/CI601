@@ -1,0 +1,592 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\services\\videoindexerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\services\\videoindexerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.client\\src\\components\\searchpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|solutionrelative:aivisionproject.client\\src\\components\\searchpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\services\\ivideoanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\services\\ivideoanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\aivisionproject.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\aivisionproject.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.client\\src\\components\\videosearchbox.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|solutionrelative:aivisionproject.client\\src\\components\\videosearchbox.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.client\\src\\components\\previouslyindexed.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|solutionrelative:aivisionproject.client\\src\\components\\previouslyindexed.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\controllers\\previouslyindexedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\controllers\\previouslyindexedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|solutionrelative:aivisionproject.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\searchquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\searchquerydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\videosearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\videosearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\videowidgetsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\videowidgetsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vigetvideosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vigetvideosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\viprocessingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\viprocessingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vretfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vretfilters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vretsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vretsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vretsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vretsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vivideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vivideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vretsearchresultlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vretsearchresultlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\viaccountproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\viaccountproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\viaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\viaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vretvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vretvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\model\\vretvideogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\model\\vretvideogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\helpers\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\helpers\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\services\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\services\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E451039-6979-4D6D-8C43-49BBBFDDE12C}|aivisionproject.client\\aivisionproject.client.esproj|solutionrelative:aivisionproject.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\auth\\videoindexer\\viaccesstokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\auth\\videoindexer\\viaccesstokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\auth\\videoindexer\\viaccounttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\auth\\videoindexer\\viaccounttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\azureclientfactorybuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\azureclientfactorybuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\auth\\videoindexer\\armaccesstokenpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\auth\\videoindexer\\armaccesstokenpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\auth\\videoindexer\\armaccesstokenscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\auth\\videoindexer\\armaccesstokenscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|c:\\users\\lewan\\source\\repos\\aivisionproject\\aivisionproject.server\\auth\\videoindexer\\generateaccesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35E92D1-5A4D-4452-910A-2E237E831BEA}|AIVisionProject.Server\\AIVisionProject.Server.csproj|solutionrelative:aivisionproject.server\\auth\\videoindexer\\generateaccesstokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\BlobService.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Services\\BlobService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:51:23.135Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoIndexerService.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\VideoIndexerService.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Services\\VideoIndexerService.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\VideoIndexerService.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Services\\VideoIndexerService.cs",
+              "ViewState": "AQIAAKgBAAAAAAAAAIAwwMEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:49:26.07Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Controllers\\SearchController.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Controllers\\SearchController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwBYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:49:25.944Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PreviouslyIndexedController.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Controllers\\PreviouslyIndexedController.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Controllers\\PreviouslyIndexedController.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Controllers\\PreviouslyIndexedController.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Controllers\\PreviouslyIndexedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:48:24.159Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchPage.tsx",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\components\\SearchPage.tsx",
+              "RelativeDocumentMoniker": "aivisionproject.client\\src\\components\\SearchPage.tsx",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\components\\SearchPage.tsx",
+              "RelativeToolTip": "aivisionproject.client\\src\\components\\SearchPage.tsx",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowG0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-30T00:26:44.775Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PreviouslyIndexed.tsx",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\components\\PreviouslyIndexed.tsx",
+              "RelativeDocumentMoniker": "aivisionproject.client\\src\\components\\PreviouslyIndexed.tsx",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\components\\PreviouslyIndexed.tsx",
+              "RelativeToolTip": "aivisionproject.client\\src\\components\\PreviouslyIndexed.tsx",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwFYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-30T14:24:57.935Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VideoSearchBox.tsx",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\components\\VideoSearchBox.tsx",
+              "RelativeDocumentMoniker": "aivisionproject.client\\src\\components\\VideoSearchBox.tsx",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\components\\VideoSearchBox.tsx",
+              "RelativeToolTip": "aivisionproject.client\\src\\components\\VideoSearchBox.tsx",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwEEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-30T21:47:58.87Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "aivisionproject.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\App.tsx",
+              "RelativeToolTip": "aivisionproject.client\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-30T14:23:59.382Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Constants.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Constants.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Constants.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:07:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVideoAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\IVideoAnalysisService.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Services\\IVideoAnalysisService.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\IVideoAnalysisService.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Services\\IVideoAnalysisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:49:26.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AIVisionProject.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\AIVisionProject.Server.csproj",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\AIVisionProject.Server.csproj",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\AIVisionProject.Server.csproj",
+              "RelativeToolTip": "AIVisionProject.Server\\AIVisionProject.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T18:49:23.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VIGetVideosResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIGetVideosResponse.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VIGetVideosResponse.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIGetVideosResponse.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VIGetVideosResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:32:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchQueryDto.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\SearchQueryDto.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\SearchQueryDto.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\SearchQueryDto.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\SearchQueryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T21:34:24.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VideoWidgetsDto.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VideoWidgetsDto.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VideoWidgetsDto.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VideoWidgetsDto.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VideoWidgetsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:54:54.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VideoSearchRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VideoSearchRequestDto.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VideoSearchRequestDto.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VideoSearchRequestDto.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VideoSearchRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:49:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VIProcessingState.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIProcessingState.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VIProcessingState.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIProcessingState.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VIProcessingState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:34:03.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VRetFilters.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetFilters.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VRetFilters.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetFilters.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VRetFilters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:31:14.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VRetSearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetSearchResult.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VRetSearchResult.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetSearchResult.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VRetSearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:57:59.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VRetSearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetSearchRequest.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VRetSearchRequest.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetSearchRequest.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VRetSearchRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:30:44.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VIVideo.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIVideo.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VIVideo.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIVideo.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VIVideo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:28:19.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VRetSearchResultList.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetSearchResultList.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VRetSearchResultList.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetSearchResultList.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VRetSearchResultList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:58:29.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VIAccountProperties.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIAccountProperties.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VIAccountProperties.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIAccountProperties.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VIAccountProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:19:23.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VIAccount.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIAccount.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VIAccount.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VIAccount.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VIAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:09:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VRetVideo.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetVideo.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VRetVideo.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetVideo.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VRetVideo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:49:18.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VRetVideoGroup.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetVideoGroup.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Model\\VRetVideoGroup.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Model\\VRetVideoGroup.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Model\\VRetVideoGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:50:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Helpers\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Helpers\\HttpClientHelper.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Helpers\\HttpClientHelper.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Helpers\\HttpClientHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:08:31.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\IStorageService.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Services\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Services\\IStorageService.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Services\\IStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:49:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Program.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:16:19.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VIAccountTokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccountTokenProvider.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccountTokenProvider.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccountTokenProvider.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccountTokenProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:24:23.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VIAccessTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccessTokenRequest.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccessTokenRequest.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccessTokenRequest.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Auth\\VideoIndexer\\VIAccessTokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:28:40.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\App.css",
+              "RelativeDocumentMoniker": "aivisionproject.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\aivisionproject.client\\src\\App.css",
+              "RelativeToolTip": "aivisionproject.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-30T00:14:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ArmAccessTokenPermission.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenPermission.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenPermission.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenPermission.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenPermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:29:46.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AzureClientFactoryBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\AzureClientFactoryBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\AzureClientFactoryBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\AzureClientFactoryBuilderExtensions.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\AzureClientFactoryBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:27:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ArmAccessTokenScope.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenScope.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenScope.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenScope.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Auth\\VideoIndexer\\ArmAccessTokenScope.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:30:48.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GenerateAccessTokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\GenerateAccessTokenResponse.cs",
+              "RelativeDocumentMoniker": "AIVisionProject.Server\\Auth\\VideoIndexer\\GenerateAccessTokenResponse.cs",
+              "ToolTip": "C:\\Users\\lewan\\source\\repos\\AIVisionProject\\AIVisionProject.Server\\Auth\\VideoIndexer\\GenerateAccessTokenResponse.cs",
+              "RelativeToolTip": "AIVisionProject.Server\\Auth\\VideoIndexer\\GenerateAccessTokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:31:23.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
